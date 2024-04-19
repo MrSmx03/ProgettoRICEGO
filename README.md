@@ -15,4 +15,5 @@ Secondo metodo:
 NOTA BENE:
 Per far il calcolo delle quote, dovrai selezionare dei file txt con una sintassi valida oppure se non possiedi nessuna ricevuta,
 dovrai generarne di nuove. Comunque sia, dentro alla cartella RICEVUTE ci sono già delle ricevute di prova da poter usare quando richiesto.
-# ProgettoRICEGO
+
+
